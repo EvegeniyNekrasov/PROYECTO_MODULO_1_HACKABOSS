@@ -1,4 +1,4 @@
-import { preguntas } from "preguntas.js";
+import { preguntas } from "./preguntas.js";
 
 /// seleccion de botones y titulo
 const titulo = document.querySelector("h2");
