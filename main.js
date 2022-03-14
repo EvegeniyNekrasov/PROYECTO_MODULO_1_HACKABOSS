@@ -87,6 +87,7 @@ const reloj = setInterval(function (){
     counterPrint();
 },1000) }
 
+setTimeout(()=>{cuentaAtras()},3000)
 
 /// funcion para modificar las preguntas
 function ejecutarVuelta(valor) {
