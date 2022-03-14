@@ -73,7 +73,9 @@ const cuentaAtras = () => {
   }, 1000);
 };
 
-cuentaAtras();
+setTimeout(() => {
+  cuentaAtras();
+}, 3000);
 
 const counterPrint = () => {
   count.innerHTML = `Tu resultado es ${contador} **** Te quedan: ${tiempo} segundos!`;
