@@ -15,3 +15,8 @@ avanzar a la siguiente pregunta. Si es incorrecta simplemente
 avanzar.
 
 - Al finalizar las preguntas debe mostrar la puntuación final.
+
+
+### AUTORES:
+- Erick
+- Yev
