@@ -148,6 +148,10 @@ li {
     font-size: 1rem;
     font-weight: 700;
   }
+
+  footer {
+    width: 50%;
+  }
 }
 /* FOOTER */
 footer {
